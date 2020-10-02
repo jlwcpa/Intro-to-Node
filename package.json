@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.18.4",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlwcpa/Intro-to-Node.git"
+  },
+  "author": "Jerry Walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlwcpa/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/jlwcpa/Intro-to-Node#readme"
+}
